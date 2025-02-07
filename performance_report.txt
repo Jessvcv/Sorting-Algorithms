@@ -1,0 +1,66 @@
+Sorting Algorithm – BubbleSort
+Sorted 100 elements in 0.144 ms (avg)
+Sorted 500 elements in 0.669 ms (avg)
+Sorted 1000 elements in 0.985 ms (avg)
+Sorted 2000 elements in 2.918 ms (avg)
+Sorted 5000 elements in 20.877 ms (avg)
+Sorted 10000 elements in 101.773 ms (avg)
+Sorted 20000 elements in 447.948 ms (avg)
+Sorted 75000 elements in 7267.410 ms (avg)
+Sorted 150000 elements in 27566.650 ms (avg)
+
+Sorting Algorithm – InsertionSort
+Sorted 100 elements in 0.041 ms (avg)
+Sorted 500 elements in 0.180 ms (avg)
+Sorted 1000 elements in 0.145 ms (avg)
+Sorted 2000 elements in 0.266 ms (avg)
+Sorted 5000 elements in 1.544 ms (avg)
+Sorted 10000 elements in 6.175 ms (avg)
+Sorted 20000 elements in 26.263 ms (avg)
+Sorted 75000 elements in 383.688 ms (avg)
+Sorted 150000 elements in 1613.743 ms (avg)
+
+Sorting Algorithm – SelectionSort
+Sorted 100 elements in 0.158 ms (avg)
+Sorted 500 elements in 1.692 ms (avg)
+Sorted 1000 elements in 0.705 ms (avg)
+Sorted 2000 elements in 2.589 ms (avg)
+Sorted 5000 elements in 9.690 ms (avg)
+Sorted 10000 elements in 27.172 ms (avg)
+Sorted 20000 elements in 97.143 ms (avg)
+Sorted 75000 elements in 1401.640 ms (avg)
+Sorted 150000 elements in 5570.515 ms (avg)
+
+Sorting Algorithm – ShellSort
+Sorted 100 elements in 0.021 ms (avg)
+Sorted 500 elements in 0.102 ms (avg)
+Sorted 1000 elements in 0.109 ms (avg)
+Sorted 2000 elements in 0.181 ms (avg)
+Sorted 5000 elements in 0.343 ms (avg)
+Sorted 10000 elements in 0.773 ms (avg)
+Sorted 20000 elements in 1.719 ms (avg)
+Sorted 75000 elements in 7.262 ms (avg)
+Sorted 150000 elements in 15.822 ms (avg)
+
+Sorting Algorithm – QuickSort
+Sorted 100 elements in 0.026 ms (avg)
+Sorted 500 elements in 0.034 ms (avg)
+Sorted 1000 elements in 0.072 ms (avg)
+Sorted 2000 elements in 0.094 ms (avg)
+Sorted 5000 elements in 0.245 ms (avg)
+Sorted 10000 elements in 0.546 ms (avg)
+Sorted 20000 elements in 1.175 ms (avg)
+Sorted 75000 elements in 4.454 ms (avg)
+Sorted 150000 elements in 9.168 ms (avg)
+
+Sorting Algorithm – MergeSort
+Sorted 100 elements in 0.031 ms (avg)
+Sorted 500 elements in 0.063 ms (avg)
+Sorted 1000 elements in 0.123 ms (avg)
+Sorted 2000 elements in 0.185 ms (avg)
+Sorted 5000 elements in 0.527 ms (avg)
+Sorted 10000 elements in 0.869 ms (avg)
+Sorted 20000 elements in 1.964 ms (avg)
+Sorted 75000 elements in 7.793 ms (avg)
+Sorted 150000 elements in 15.675 ms (avg)
+
